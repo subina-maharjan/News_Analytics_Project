@@ -1,0 +1,6 @@
+plotwordproportion-package	plotwordproportion-package
+Guardian_NYT_dataset	Guardian_NYT_dataset
+plotwordproportion	plotwordproportion-package
+plot_word_frequency_over_time	plot_word_frequency_over_time
+remove_stopwords	remove_stopwords
+tokenize_words	tokenize_words

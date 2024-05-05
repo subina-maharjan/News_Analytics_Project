@@ -1,0 +1,12 @@
+exportPattern("^[[:alpha:]]+")
+# Add importFrom directives
+importFrom(dplyr, `%>%`, filter, count, group_by, mutate, arrange)
+importFrom(ggplot2, ggplot, aes, geom_point, geom_smooth, ggtitle, labs, scale_y_continuous, facet_wrap, scale_x_datetime, theme, element_rect, alpha)
+importFrom(scales, percent)
+importFrom(tidytext, unnest_tokens)
+importFrom(tm, DocumentTermMatrix)
+import(dplyr)
+import(devtools)
+import(roxygen2)
+import(usethis)
+

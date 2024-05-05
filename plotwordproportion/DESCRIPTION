@@ -1,0 +1,17 @@
+Package: plotwordproportion
+Type: Package
+Title: Plot Word Proportion Over Time
+Version: 0.1.0
+Author: 10891326,10884368
+Maintainer: 10891326 <10891326@postgrad.plymouth.ac.uk>
+Description: A ggplot object displaying the change in word frequency over time for the specified filtered words.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Imports: scales, dplyr, ggplot2, tidytext, tm, devtools, roxygen2,
+        usethis
+RoxygenNote: 7.2.3
+Depends: R (>= 2.10)
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
+Built: R 4.3.1; ; 2024-01-28 15:49:10 UTC; windows

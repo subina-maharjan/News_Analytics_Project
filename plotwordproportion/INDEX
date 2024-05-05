@@ -1,0 +1,5 @@
+Guardian_NYT_dataset    Guardian and New York Times Dataset
+plot_word_frequency_over_time
+                        Plot Word Proportion Over Time
+remove_stopwords        Remove Stopword
+tokenize_words          Tokenize Text Data
